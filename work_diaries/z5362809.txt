@@ -1,0 +1,69 @@
+Work Diary: (z5362809)
+
+Week 1:
+- Met group in lab and chose project from sample projects with the group. Assigned scrum master
+  (me) with other group members and worked with group on the proposal. Held a group meeting on
+  Thursday to work more on the proposal, completing parts A and B in the meeting, and creating some
+  additional Jira tasks to complete for Sprint 1 such as setup and objective-related tasks, and
+  assigning some. Created Bitbucket repository, and worked on setting up React, yarn and framework
+  code for the frontend such as Routes.
+
+Week 2:
+- Completed team assigning and creating of Github Classroom repository in lab and moved pre-existing
+  code from Bitbucket repository to Github. Worked more on the proposal with the group. Completed the
+  proposal in Thursday meeting, where we also caught up previously absent group member. Created
+  subtasks for each objective we were completing in Sprint 1, and assigned all remaining tasks.
+  In remainder of the week, worked on frontend, merging navbar, and pages for login, register
+  for diners to main git branch.
+
+Week 3:
+- Pushed reset password frontend components (email, code) and logout functionality. During lab, 
+  discussed proposal with tutor, who pointed out several issues. Spent remaining time in lab 
+  working on fixing proposal. Held group meeting on Thursday to finish the proposal parts b and c.
+  Re-submitted the proposal on Thursday. 
+
+Week 4:
+- Worked on improving frontend UI and creating the EateryProfileList page so that users can view
+  eatery profiles. During the weekly lab, set up backend and began testing frontend/backend. Fixed
+  several typos and issues with backend/frontend integration and finished EateryProfileList page.
+  On Sunday, held group meeting with 4 members, worked on creating subtasks for Sprint 2 and
+  assigned tasks.
+
+Week 5:
+- Received feedback from Sprint 1, and held Retrospective 1 meeting during Wednesday lab with group,
+  submitting report on same day. Started frontend work on user reviews on Monday and completed it on
+  Friday. This included viewing, creating, as well as additional functionality including replying,
+  deleting, editing, which required refactoring existing code as well. Also edited and worked on 
+  improving the apperance of some frontend components such as the eatery profile.
+
+Week 6:
+- Started work on locations / distances. After working on finding an appropriate (free) location API,
+  converted existing address fields to autocomplete, using this API. This also allowed me to get the 
+  latitude and longitude of eateries from their address. Since existing distance matrix APIs seemed to
+  all require either a credit card or were very limited, tasked another group member with backend
+  calculations for this using latitude/longitude.
+
+Week 7:
+- Reviewed frontend, updating styling for some components. Checked up on group progress for Sprint 2. 
+  Worked on the vouchers creation modal and getting it finished to merge. Discussed implementation of vouchers
+  in backend. Held group meeting on Saturday with 3 group members (1 absent) to discuss final project
+  report, assigning Sprint 3 tasks, and re-assigning remaining voucher tasks to complete before demo.
+  Ended up working on voucher frontend over the weekend - Created frontend components for edit diner profile,
+  diner dashboard, viewing vouchers available for eateries both in list form and on their profiles, 
+  and creating modal to allow users to obtain vouchers.
+
+Week 8:
+- Finished rest of voucher functionality on Monday. Edited and added backend routes for fetching/redeeming vouchers,
+  added pages to view obtained vouchers as diner and to view vouchers & schedules as eatery. Completed modal to 
+  redeem voucher codes by eateries. Added dark mode to frontend. Researched into and added chatbot script (Tidio)
+  into the app. Injected chatbot AI with self-created 'FAQ' Q&A to provide answers about the application's features.
+  
+Week 9:
+- Worked to add more to chatbot, raising PR and getting it merged. Worked on adding landing page, and restyling
+  components, using different font, adding pagination for fetching eateries.
+
+Week 10:
+- Worked to update a significant number of component stylings on frontend (vouchers, loyalty system, colors/fonts, dark mode), adding 
+  cursor + scaling hover state. Also fixed ongoing issue breaking most modals, and fixed some input fields. Also prepared
+  general structure for demo, and some basic outlines for what to say. After demo, assigned roles to finish off report and had group
+  meeting with group members to finish report + codebase manual.

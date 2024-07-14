@@ -1,0 +1,57 @@
+Work Diary: (z5362803)
+
+Week 1:
+   - Absent from labs due to overseas
+   - Connected with group via discord
+   - Set up discord to use as communication means, created channels
+   - Learning React JS framework for future
+   - Setup environments
+ 
+Week 2:
+   - Absent from lab again, still overseas
+   - Connected with group on Thursday, completed setup and followed up on tasks
+   - Worked on proposal, elaborating on types of software used and conducting more research into our platform
+   - Additionally added references and industry research to proposal  
+   - Setup additional weekly catchup with group every thursday at 7pm
+
+Week 3:
+   - Connected with tutor to discuss improvements to proposal, noted and discussed with group
+   - Noteably, our user stories and storyboard must be more individual, our storyboard was one large diagram
+   - Proposal was submitted
+   - Documented frontend setup for other group members
+   - Researched React Modals, Datetime and input taking
+   - Created Modal for discountvoucher, pushed and merged
+
+Week 4:
+   - introducing new modal to for discountvoucher validation, needs to take input and verify it is a valid code
+   - reasearched google maps API as useable for future sprint, discussed with group
+Week 5: 
+   - Backend tested with frontend modal - checked writing to database was correct
+   - degbugged backend and database issues
+   - Started adding complexity to modal, such as datetime and weekly occurance
+   - Discuss startegies to deliver voucher to customer
+Week 6:
+   - Flex week, absent from work
+Week7: 
+   - Trying to Fix Datetime and weekly recurrence on voucher modal on frontend  
+      - Not able to do it - Byron took over this tasks
+   - Created google maps API and learnt how to create embeds
+   - Basic embed using google maps link created
+Week 8
+   - Upgraded Google maps embed to:
+      - Remove dependency on API keys - embed can be done without API call
+      - Use longitude and latitude provided by eatery's location autofill to create pin on maps
+   - Discussed final project report with group, asked and noted feedback from tutor during tute
+Week 9
+   - Front to back testing on stack
+      - Report, document and help debug issues
+      - Create more test cases to avoid 500 errors and server crashing
+      - Tutor mentioned software cannot crash during demo
+   - Research and created dumps file for demo and documentation
+      - Overcame difficulties related to dump file creation and shell encoding of images
+   - Upgraded Google Maps to appear and dissapear onShow()
+Week 10
+   - Prepared for demo, created structure for presentation
+   - Suggests presentation ideas
+   - Did demo
+   - Worked on documentation for final report - did 40 pages worth of user manual

@@ -1,0 +1,57 @@
+Week 1: Started the project proposal. I helped write the background paragraphs as well as the user stories. Met in person 
+        as a group, setting up the project by following instructions on Moodle (Jira, selecting Scrum Master, forming group etc.). 
+        Discussed choices and chose eatery management system. Discussed novel functionality. 
+
+Week 2: Contributed to the system architecture write-up where I created the diagram showing the presentation, 
+        business and data layers, as well as providing a description for what each layer contains. Also 
+        contributed to creating the storyboard by creating pages for viewing eateries as well as the page
+        where users can view eatery profiles. Further revised novel functionality using feedback. Added issues on Jira
+        according to user stories. Polished up the proposal as well in the group meeting.
+
+Week 3: Via feedback from the tutorial, revised the background section to include screenshots of problematic
+        elements for FirstTable. Also helped revise the user stories to make up 40 in total. As such, revised issues on Jira
+        accordingly. With all of these issues revised we were able to submit a more polished project proposal. Also set up 
+        some routes in the backend for eatery management. 
+
+Week 4: Regarding the project, I was able to finish up my assigned issues involving the backend for eatery management. This 
+        included routes to get details for both eateries and diners (e.g. name, email etc.) as well as routes to edit eatery details.
+        In doing so, we were able to better flesh out the necessary details for eateries. During the meeting, we worked on selecting
+        objectives for sprint 2 as well as assigning specific issues to group members for sprint 2.
+
+Week 5: Polished up my issues for the project demo, adding a route to edit diner details. Since we were basically done for the first 
+        sprint at the end of week 4, the workload for week 5 was quite light. In the lab, we did our project demo and afterwards, we
+        decided to do the retrospective as well. We were able to highlight what went well, what didn't, as well as how we could 
+        improve going forwards. As a whole, we were in mutual agreement that sprint 1 went very well.
+
+Week 6: Started sprint 2. For me, this involved working on the backend for voucher funtionality. Mainly focused on figuring out all
+        the necessary routes needed to accomodate the frontend, including a POST route to create vouchers, a GET route to find 
+        information related to a voucher and a PUT route to redeem the voucher as well as a POST route to create recurring vouchers.
+        I finished the POST route to create vouchers this week.
+
+Week 7: Revised voucher backend -> previously we wanted to merge obtain and redeem voucher together into one process, but decided
+        via group discussion that it would be better to stick with being able to obtain and redeem vouchers. With that cleared up, 
+        I was able to implement obtain and redeem voucher, as well as implementing the creation of weekly voucher schedules (backend).
+        To implement the latter, I used APScheduler with a cron job to be able to create vouchers on a specific day given the necessary
+        parameters. We also had a group meeting where we assigned tasks for sprint 3 and worked on the final project report. Finally, 
+        we set a meeting time next week to work on the project report.  
+
+Week 8: Tested the workings of the voucher module with frontend - fixed minor issues accordingly. In the lab, we completed the project
+        demo as well as the retrospective. Then on the next day, we had a group meeting where we dicussed how to approach the final 
+        project report. I was able to add to the overall architecture portion of the final report in the meeting. We also allocated 
+        tasks related to the final presentation, including assigning a group member to be responsible for creating a dump file that
+        immediately loaded up multiple eateries to showcase a more lively webpage. 
+
+Week 9: For sprint 3, I completed the backend part for the recommendations functionality. This included adding fields to the diner table
+        in the database for tracking tags associated with eateries that the diner enjoyed eating at, as well as tracking which eateries
+        the diner has visited previously. In the group meeting, we worked on the user manual - I did parts related to how an eatery user
+        would use our website. We also mapped out the user journeys we would present in the final demo, again I was responsible for parts
+        related to the eatery user.
+
+Week 10: Since we were essentially finished at this point in terms of the codebase, I was just testing my code and trying to find any last bugs.
+         In terms of additional functionality, I created an interval scheduler that could schedule a job to run every minute (takes in a variable
+         number of minutes) solely for the purposes of the demo as well as for our tutor to test our code. In the lab, we completed our final 
+         demonstration, where I talked about creating vouchers and redeeming vouchers. On the day after, we had our final group meeting where we
+         focused on finishing the final report. I completed parts of the functionalities section related to eatery management, voucher management,
+         reviews, search filtering and recommendations. Finally, I polished off the setup process on the virtual machine by creating a bash script
+         for the backend setup, as well as adding more detailed instructions for the frontend setup. I documented all setup steps in the README
+         in the GitHub repository. 

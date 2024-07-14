@@ -1,0 +1,37 @@
+Work Diary: (z5358863)
+
+Week 1:
+ - Met group in lab and chose project from sample projects with the group. Assigned scrum master (Byron) with other group members and worked with group on the
+proposal. Held a group meeting on Thursday to work more on the proposal, completing parts A and B in the meeting, and creating some additional Jira tasks to 
+complete for sprint 1 such as setup and objective-related tasks, and assigning some. Planned out schema for the database.
+ 
+ Week 2:
+  - Did additional proposal work with the group, finishing it on Thursday, where we also caught up previously absent group member. Created subtasks for each
+objective in Sprint 1, and assigned the remaining tasks. Finished the sql schema and made method stubs in the server.py file for the different route calls.
+  
+Week 3:
+   - Finished the authentication routes for the backend, such as user registration, log in/out and password reset requests via email. Submitted the proposal.
+
+Week 4:
+   - Added a route for changing a user's current password given that they're currently signed in and enter their original password. Assigned tasks for sprint 2.
+
+Week 5:
+   - Held retrospective meeting with the group and discussed how the demo ended up. I made some minor fixes to user tokens and started planning out how reviews
+     would work.
+
+Week 6:
+   - Created various routes for creating reviews, editing reviews, and creating replies. Also stored ratings on the database for reviews.
+
+Week 7:
+   - Created routes for getting and deleting reviews. Also made improvement to return average rating, only accounting for the latest rating from a specific user
+     to avoid users spamming reviews affecting the rating.
+
+Week 8:
+   - Edited routes to return information on the distance between diners and eateries. Made some additional sprint 2 fixes before the demo.
+
+Week 9:
+   - Finished working on the loyalty system backend. Made some miscellaneous other fixes as noticed, such as raising an error for phone numbers that are too long.
+
+Week 10:
+  - Added a fix for loyalty to check if the system is enabled before incrementing a diners loyalty points. Did some miscellaneous testing on the system to see that 
+ it works as intended. Stopped diners from being able to delete and recreate reviews to gain loyalty points. Describes how user management functionalities relate to their objectives.

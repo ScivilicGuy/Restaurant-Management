@@ -1,0 +1,52 @@
+Work Diary: (z5364296)
+
+Week 1:
+- Met group in lab and chose project from sample projects with the group. Assigned scrum master
+  (Byron) with other group members and worked with group on the proposal. Held a group meeting on
+  Thursday to work more on the proposal, completing parts A and B in the meeting, and creating some
+  additional Jira tasks to complete for Sprint 1 such as setup and objective-related tasks, and
+  assigning some. Did research into the technologies we plan to use for the project.
+
+Week 2:
+- Worked more on the proposal with the group. Completed the proposal in Thursday meeting,
+  where we also caught up previously absent group member. Created subtasks for each objective
+  we were completing in Sprint 1, and assigned all remaining tasks. Worked on frontend,
+  completing and pushing the frontend components for the eatery registration page and the
+  eatery menu dashboard. Also created a basic modal component which I plan to use in later tickets.
+
+Week 3:
+- Discussed project direction with group, and made improvements to proposal based on tutor feedback.
+  Created frontend page for editing eatery profile, which included file inputs, and created basic
+  frontend page for viewing eatery profile from diner perspective.
+
+Week 4:
+- Improved frontend page for editing eatery profile and connected to backend routes. Added more
+  elements to page for viewing eatery profile, and connected to backend route. Added general
+  functionality improvements to the frontend such as back buttons on pages, as well as style changes.
+  Discussed sprint 2 with teammates and assigned tasks.
+
+Week 5:
+- Started work on frontend for menu edit page, discussed backend implementation of menu view and edit
+  with teammates.
+
+Week 6:
+- Completed frontend components for menu view and edit. Connected components to completed backend routes
+  and tested functionality, in addition to making style improvements. Began working on implementing search
+  filtering and sorting by implementing eatery tag system and search bar.
+
+Week 7:
+- Completed implementation of search filtering, completed implementation of price and ratings sorting. Added
+  improvements to component style based on teammate feedback. Discussed sprint 3 with teammates and assigned tasks.
+  Started working on final report with teammates.
+
+Week 8:
+- Implemented frontend components for recommendation system, planned backend requirements for recommendations and
+  loyalty system with teammates. Continued working on final report with teammates.
+
+Week 9:
+- Completed frontend implementation of recommendation systems, and connected to backend routes. Implemented frontend
+  components for loyalty system, finalised backend requirements with teammate. Fixed frontend bugs relating to input.
+  Continued working on final report with teammates.
+
+Week 10:
+- Completed loyalty system implementation, finished final report with teammates, helped test application on virtual environment.
