@@ -1,7 +1,5 @@
 # README #
 
-### COMP3900W16AFiveGuys ###
-
 This project is a restaurant management website that can be used by both diners and restaurants. Diners can find vouchers for registered restaurants and restaurants can manage their menu, vouchers, loyalty system and profile. 
 Included functionalities include user and restaurant profile management, vouchers, search filtering, reviews, recommendations, loyalty system and chatbot. 
 
