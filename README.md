@@ -2,7 +2,8 @@
 
 ### COMP3900W16AFiveGuys ###
 
-**The Eatery**
+This project is a restaurant management website that can be used by both diners and restaurants. Diners can find vouchers for registered restaurants and restaurants can manage their menu, vouchers, loyalty system and profile. 
+Included functionalities include user and restaurant profile management, vouchers, search filtering, reviews, recommendations, loyalty system and chatbot. 
 
 ### BACKEND SETUP (DO FIRST - terminal 1) ###
 
